@@ -6,8 +6,8 @@
   <img height="250" src="/public/moveit3.png">
 </h1>
 <p float="left">
-<img align="" height="230" src="/public/Moveit.png"> 
-<img align="" height="230" src="/public/moveit2.png">  
+<img align="" height="220" src="/public/Moveit.png"> 
+<img align="" height="220" src="/public/moveit2.png">  
 </p>
 
 
