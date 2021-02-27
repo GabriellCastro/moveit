@@ -5,9 +5,9 @@
 <h1 align="center">
   <img height="250" src="/public/moveit3.png">
 </h1>
-<p>
-<img align="right" height="226" src="/public/moveit2.png">
-<img align="" height="226" src="/public/Moveit.png">   
+<p align="center">
+<img align="" height="230" src="/public/Moveit.png"> 
+<img align="" height="230" src="/public/moveit2.png">  
 </p>
 
 
