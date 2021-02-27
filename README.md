@@ -6,8 +6,8 @@
   <img height="250" src="/public/moveit3.png">
 </h1>
 <p>
+<img align="left" height="226" src="/public/moveit2.png">
 <img align="" height="226" src="/public/Moveit.png">   
-<img align="right" height="226" src="/public/moveit2.png">
 </p>
 
 
