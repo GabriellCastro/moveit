@@ -5,9 +5,10 @@
 <h1 align="center">
   <img height="250" src="/public/moveit3.png">
 </h1>
-
-<img align="right" height="226" src="/public/Moveit.png">   
-<img align="right" height="226" src="/public/moveit2.png">   
+<p>
+<img align="" height="226" src="/public/Moveit.png">   
+<img align="right" height="226" src="/public/moveit2.png">
+</p>
 
 
 ### 🛠 Tecnologias
