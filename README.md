@@ -7,7 +7,7 @@
 </h1>
 
 <img align="left" height="245" src="/public/Moveit.png">
-<img align="right" height="245" src="/public/moveit2.png">
+<img align="" height="245" src="/public/moveit2.png">
 
 
 ### 🛠 Tecnologias
