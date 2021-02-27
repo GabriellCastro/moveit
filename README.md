@@ -6,8 +6,8 @@
   <img height="250" src="/public/moveit3.png">
 </h1>
 
-<img align="left" height="242" src="/public/Moveit.png">
-<img align="" height="242" src="/public/moveit2.png">
+<img align="left" height="240" src="/public/Moveit.png">
+<img align="" height="240" src="/public/moveit2.png">
 
 
 ### 🛠 Tecnologias
