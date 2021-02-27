@@ -1,34 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center"><img height="20" src="/public/favicon.png">moveit</h1>  
+<p align="center">A <strong>rocketseat</strong> me trouxe um desafio muito TOP, construir um sitema pomodoro com exercícios ou alongamentos ao fim de cada tempo de estudo ou trabalho, melhorando um pouco a qualidade de vida das pessoas que passam muito tempo na frente do computador.</p>  
 
-## Getting Started
+<h3 align="center"><a href="https://moveit-ashen-psi.vercel.app/">👉moveit👈</a> </h3>
+<h1 align="center">
+  <img height="250" src="/public/moveit3.png">
+</h1>
 
-First, run the development server:
+<img align="right" height="250" src="/public/Moveit.png">
+<img align="" height="250" src="/public/moveit2.png">
 
-```bash
-npm run dev
-# or
-yarn dev
+
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [x] Typescript(ES6)
+- [x] Hooks
+- [x] Next.js
+- [x] Context API
+- [x] Figma
+- [x] HTML5
+- [x] Styled-components
+- [x] Js-Cookie
+
+### 💻 Run Local
+
+```
+# Clone o repositório:
+
+$ git clone git@github.com:GabriellCastro/moveit.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```
+# instalar dependências:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+yarn add ou npm install
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+```
+# Para executar o aplicativo em sua máquina:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+yarn dev ou npm run dev
+```
+### 💻 Desenvolvedor:
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Desenvolvido por Gabriel Castro ! 🥇  
+<kbd>
+    <img src="https://avatars.githubusercontent.com/u/61993679?s=460&u=970a557bb6ad3bf6ff644dc20d5b6d3cdd753a93&v=4" width="100px;" />
+ </kbd>
