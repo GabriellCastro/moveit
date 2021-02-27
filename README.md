@@ -20,8 +20,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Context API
 - [x] Figma
 - [x] HTML5
-- [x] Styled-components
+- [x] CSS3
+- [x] Styled Components
 - [x] Js-Cookie
+- [x] Clean Code  
 
 ### 💻 Run Local
 
