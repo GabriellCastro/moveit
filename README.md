@@ -1,5 +1,5 @@
 <h1 align="center"><img height="20" src="/public/favicon.png">moveit</h1>  
-<p align="center">A <strong>rocketseat</strong> me trouxe um desafio muito TOP, construir um sitema pomodoro com exercícios ou alongamentos ao fim de cada tempo de estudo ou trabalho, melhorando um pouco a qualidade de vida das pessoas que passam muito tempo na frente do computador.</p>  
+<p align="center">A <strong>rocketseat</strong> me trouxe um desafio muito TOP, construir um sistema igual a técnica de produtividade pomodoro, o diferencial é que ao final de cada ciclo tem um exercício ou alongamento, melhorando um pouco a qualidade de vida das pessoas que passam muito tempo na frente do computador.</p>  
 
 <h3 align="center"><a href="https://moveit-ashen-psi.vercel.app/">👉moveit👈</a> </h3>
 <h1 align="center">
