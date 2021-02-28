@@ -17,4 +17,14 @@
   align-content: center;
 }
 
-/* .leftContainer {} */
+@media (max-width: 720px) {
+  .container section {
+    display: block;
+    margin-top: 2rem;
+  }
+
+  .mobileChallenge {
+    margin-top: 2rem;
+  }
+  
+}

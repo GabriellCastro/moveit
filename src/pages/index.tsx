@@ -39,7 +39,7 @@ export default function Home(props: HomeProps) {
               <CompletedChallenges />
               <Countdown />
             </div>
-            <div>
+            <div className={styles.mobileChallenge}>
               <ChallengeBox />
             </div>
           </section>
